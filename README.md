@@ -10,10 +10,11 @@
 - ⚡ Fun fact: Amo Física, Meio Ambiente, RPG de mesa, Livros e Desenhos Animados #NerdMode
 
 
+
  <div>
   <a href="https://github.com/AnaJuaguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaJuaguiar&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuaguiar&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=AnaJuaguiar&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuaguiar&layout=compact&langs_count=7&theme=synthwave"/>
   <img align="right" alt="Ana-gif" src="https://i.picasion.com/pic91/c49fa6c8de3424e5b35f157686f130c7.gif">
 </div>
   
