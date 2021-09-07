@@ -4,9 +4,9 @@
 - 📚 Estou estudando algumas coisas como: Front-end, Python e JavaScript;
 - 🧐 Meu objetivo é aprender o máxio possível e compartilhar os exercícios e projetos aqui ...
 - 👾 Se você, assim como eu, é iniciante, #tamojunto e se já é mais experiente fique a vontade para opinar e sugerir!
-- 🤔 Estou sempre buscando ajuda para melhorar e otimizar eus códigos e resolver nossos (quase) amigos ERROR !!!
+- 🤔 Estou sempre buscando ajuda para melhorar e otimizar meus códigos e resolver as mensagens que dizem ERROR !!!
 - 💬 Alguma coisa aqui te deixou com a pulga atrás da orelha? É só falar comigo!!
-- 👯‍♀️ Pronomes: Ela/Dela  ...
+- 👯‍♀️ Pronomes: Ela/Dela
 - ⚡ Fun fact: Amo Física, Meio Ambiente, RPG de mesa, Livros e Desenhos Animados #NerdMode
 
 
