@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ana Júlia e é um prazer te ter por aqui! 🙃
 
 
-- 📚 Estou estudando algumas coisas como: Front-end, Python e JavaScript;
+- 📚 Estou estudando algumas coisas como: Front-end (ReactJS) e .Net;
 - 🧐 Meu objetivo é aprender o máximo possível e compartilhar os exercícios e projetos aqui ...
 - 👾 Se você, assim como eu, é iniciante, #tamojunto e se já é mais experiente fique a vontade para opinar e sugerir!
 - 🤔 Estou sempre buscando ajuda para melhorar e otimizar meus códigos e resolver as mensagens que dizem ERROR !!!
